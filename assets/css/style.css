@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+
+    -webkit-text-stroke: 2px black;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    display: hidden;
+    overflow: auto;
+    text-align: center;
+    color: white;
+    font-size: 85px;
+    font-weight: bolder;
+    -webkit-text-stroke: 2px black;
+}
+
+p {
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    -webkit-text-stroke: 2px black;
+
+}
+
+.jumbotron {
+    padding-bottom: 5px;
+}
+
+#gt {
+    float: left;
+}
